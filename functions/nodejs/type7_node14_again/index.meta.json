@@ -1,0 +1,16 @@
+{
+  "apiID": "app_185914_package_985c7c__c__function_aadigwkcruucg",
+  "apiName": "type7_node14_again",
+  "label": {
+    "zh_CN": "type7_node14_again",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
